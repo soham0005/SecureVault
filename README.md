@@ -45,3 +45,11 @@ All the dependencies should be installed. Now, you just have to start the React 
 npm start
 ```
 ### You also have to keep the mongodb cluster open in order to run the app properly.
+
+![Screenshot (87)](https://github.com/user-attachments/assets/1cba276c-b13b-432c-be46-e4c9aad2cc7f)
+![Screenshot (82)](https://github.com/user-attachments/assets/28750453-9c63-48d0-95fe-e9ce43e86c29)
+![Screenshot (83)](https://github.com/user-attachments/assets/c03b4f64-0817-47d7-9f75-ecc6f579fe20)
+![Screenshot (84)](https://github.com/user-attachments/assets/3c2a2288-6632-4dfe-99a5-df3501ccaa9a)
+![Screenshot (86)](https://github.com/user-attachments/assets/5fa94a83-e674-4a1b-b3cf-577d010a915c)
+
+
